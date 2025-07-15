@@ -11,7 +11,7 @@ This project forecasts **hourly bikeshare demand** by integrating a **hybrid tim
 - Integrated **lag features** and **residual learning**
 - Forecasts hourly demand with **R² of 0.89**, a 15% improvement over Prophet alone
 - Designed for **real-time operational deployment**
-- 
+  
 ## Files Included
 - `Bikeshare.ipynb`: Main notebook implementing the hybrid forecasting model
 - `Weather_data.rar`: Weather data used for model training (temperature, humidity, etc.)
